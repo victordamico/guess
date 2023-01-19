@@ -71,5 +71,3 @@ if chances == contador and numero_secreto != palpite:
 
 
 
-
-#pontuação 
